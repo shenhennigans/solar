@@ -1,0 +1,22 @@
+{
+  "name": "solar",
+  "version": "1.0.0",
+  "description": "solar data calculations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenhennigans/solar.git"
+  },
+  "keywords": [
+    "solar"
+  ],
+  "author": "shenhennigans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenhennigans/solar/issues"
+  },
+  "homepage": "https://github.com/shenhennigans/solar#readme"
+}
