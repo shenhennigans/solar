@@ -1,1 +1,3 @@
-module.exports = require('./lib/solar.js');
+import {getSolarData as solarData} from './lib/solar';
+
+export default {solarData}
