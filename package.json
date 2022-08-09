@@ -1,5 +1,5 @@
 {
-  "name": "solar",
+  "name": "solar-data",
   "version": "1.0.0",
   "description": "solar data calculations",
   "main": "index.js",
