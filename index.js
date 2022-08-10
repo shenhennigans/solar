@@ -1,3 +1,3 @@
-import {getSolarData as solarData} from './lib/solar';
+import {getSolarData as solarData, hra} from './lib/solar';
 
-export default {solarData}
+export {solarData, hra}
